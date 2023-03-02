@@ -32,7 +32,6 @@ function App() {
           setUser(data["users"]);
           console.log(user);
         });
-  
     }
   
     fetchData();
